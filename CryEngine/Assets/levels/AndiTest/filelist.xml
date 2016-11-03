@@ -1,0 +1,6 @@
+<download name="AndiTest" type="Map">
+ <index src="filelist.xml" dest="filelist.xml"/>
+ <files>
+  <file src="level.pak" dest="level.pak" size="137023" md5="2eaa30e962ede21f1ffcc9daa82f8907"/>
+ </files>
+</download>
